@@ -1,0 +1,5 @@
+<settings>
+  <category label="General"> 
+    <setting id="enable_music" label="Activar música al entrar al addon (si está activado)" type="bool" default="true" />
+  </category>
+</settings>
